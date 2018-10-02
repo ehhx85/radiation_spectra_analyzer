@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+    <file alias="maestro_test_data">spectra/labeled_data.spe</file>
+    </qresource>
+</RCC>
